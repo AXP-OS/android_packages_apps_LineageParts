@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS ezarpenak</string>
+    <string name="lineageparts_title">AXP.OS ezarpenak</string>
     <string name="loading">Kargatzen\u2026</string>
     <string name="dlg_ok">Ados</string>
     <string name="cancel">Utzi</string>
@@ -565,7 +565,7 @@ Informazio hau gailuaren abio bakoitzean bidaltzen da.\n\nBidalitako informazioa
     <string name="trust_feature_security_patches_value_new">egunean</string>
     <string name="trust_feature_security_patches_value_medium">hilabete batzuk zaharkitua</string>
     <string name="trust_feature_security_patches_value_old">zaharkitua</string>
-    <string name="trust_feature_security_patches_explain">Segurtasun partxeak hilabetero kaleratzen ditu Googlek ekoizleekin elkarlanean, aplikazio gaizkileek segurtasun mugak inguratzeko eta gailuan kalte iraunkorra sortzeko erabili ditzaketen ahuleziak konpontzeko. Googlek argitaratutako partxeak onartutako gailu guztietan aplikatzen dira hilabetero, baina jabeduna den kodean ekoizleak besterik ezin du aplikatu partxea. Gailua seguru mantentzeko egiaztatu LineageOS beti egunean dagoela eta (baldin eta badagokio) egiaztatu zure ekoizlearen irudia LineageOS-ek aholkatutako azkenera eguneratu dela.</string>
+    <string name="trust_feature_security_patches_explain">Segurtasun partxeak hilabetero kaleratzen ditu Googlek ekoizleekin elkarlanean, aplikazio gaizkileek segurtasun mugak inguratzeko eta gailuan kalte iraunkorra sortzeko erabili ditzaketen ahuleziak konpontzeko. Googlek argitaratutako partxeak onartutako gailu guztietan aplikatzen dira hilabetero, baina jabeduna den kodean ekoizleak besterik ezin du aplikatu partxea. Gailua seguru mantentzeko egiaztatu AXP.OS beti egunean dagoela eta (baldin eta badagokio) egiaztatu zure ekoizlearen irudia LineageOS-ek aholkatutako azkenera eguneratu dela.</string>
     <string name="trust_feature_encryption">Zifratzea</string>
     <string name="trust_feature_encryption_value_enabled">Gaituta</string>
     <string name="trust_feature_encryption_value_nolock">Blokeo-pantaila seguru bat behar du</string>

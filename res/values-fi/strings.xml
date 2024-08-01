@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="lineageparts_title">LineageOS Asetukset</string>
+    <string name="lineageparts_title">AXP.OS Asetukset</string>
     <string name="loading">Ladataan\u2026</string>
     <string name="dlg_ok">OK</string>
     <string name="cancel">Peruuta</string>
@@ -566,7 +566,7 @@ aksentti \nOtetaanko käyttöön?</string>
     <string name="trust_feature_security_patches_value_new">ajan tasalla</string>
     <string name="trust_feature_security_patches_value_medium">pari kuukautta jäljessä</string>
     <string name="trust_feature_security_patches_value_old">vanhentunut</string>
-    <string name="trust_feature_security_patches_explain">Google julkaisee tietoturvapäivityksiä kuukausittain yhteistyössä alustan valmistajien kanssa korjatakseen ongelmia joita haitalliset sovellukset voisivat käyttää ohittaakseen turvallisuusmäärityksiä ja aiheuttaakseen vahinkoa laitteellesi. Googlen julkaisemat päivitykset lisätään joka kuukausi kaikkiin tuettuihin laitteisiin, mutta suljettuun koodiin tehdyt muutokset voi julkaista vain laitteen valmistaja. Pitääksesi laitteesi turvassa, varmista että käytössä on aina tuore LineageOS-koontiversio, ja (jos mahdollista) laitevalmistajan versio on viimeisin LineageOS:n suosittelema.</string>
+    <string name="trust_feature_security_patches_explain">Google julkaisee tietoturvapäivityksiä kuukausittain yhteistyössä alustan valmistajien kanssa korjatakseen ongelmia joita haitalliset sovellukset voisivat käyttää ohittaakseen turvallisuusmäärityksiä ja aiheuttaakseen vahinkoa laitteellesi. Googlen julkaisemat päivitykset lisätään joka kuukausi kaikkiin tuettuihin laitteisiin, mutta suljettuun koodiin tehdyt muutokset voi julkaista vain laitteen valmistaja. Pitääksesi laitteesi turvassa, varmista että käytössä on aina tuore AXP.OS-koontiversio, ja (jos mahdollista) laitevalmistajan versio on viimeisin LineageOS:n suosittelema.</string>
     <string name="trust_feature_encryption">Salaus</string>
     <string name="trust_feature_encryption_value_enabled">Käytössä</string>
     <string name="trust_feature_encryption_value_nolock">Vaatii turvallisen lukitusnäytön</string>
